@@ -1,0 +1,14 @@
+# MAC_OSX 
+.DS_STORE
+__MACOSX/
+
+# editor setup
+.idea/
+.vscode/
+
+# dataset
+dataset/
+
+# libsvm: too large
+libsvm/
+libsvm-3.22/
